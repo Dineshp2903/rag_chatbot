@@ -16,6 +16,11 @@ The project customized and in depth analysis for chatbot and things are handled 
 4. Next Word prediction
 5. Suggestion buttons
 
+### Optimization
+1. Trim Messages
+2. Session maintain
+3. 
+
 ### UI
 1. Streamlit
 2. Chatbot using React
