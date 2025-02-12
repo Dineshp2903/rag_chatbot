@@ -1,7 +1,9 @@
-streamlit
 langchain
-langchain-community
-huggingface-hub
+langchain_community
+langchain_chroma
+langchaii_huggingface
 faiss-cpu
-PyPDF2
-groq
+langchain_groq
+pypdf
+HuggingFaceEmbeddings
+python-dotenv
