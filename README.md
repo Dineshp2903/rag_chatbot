@@ -8,6 +8,7 @@ The project customized and in depth analysis for chatbot and things are handled 
    - [ ] PDF Loader
    - [ ] Web Loader
    - [ ] DB Loader
+   - [ ] WikiPedia Loader
 
 ## LLM required
 1. SQL Loader - Text to query converter
