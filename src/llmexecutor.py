@@ -22,7 +22,6 @@ class Groq(LLMExecutor):
                 timeout=None,
                 max_retries=2,
             )
-            print(type(llm))
             return llm
         except Exception as e:
             print(f"Error loading LLM model: {e}")
