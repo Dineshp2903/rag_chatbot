@@ -17,6 +17,16 @@ The project customized and in depth analysis for chatbot and things are handled 
 4. Next Word prediction
 5. Suggestion buttons
 
+## Data Base
+List of following databases are used to analyze the vector db.
+- [ ] FAISS
+- [ ] Chrome
+- [ ] PineCone
+- [ ] Neon
+- [ ] PgVector
+- [ ] 
+
+
 ### Optimization
 1. Trim Messages
 2. Session maintain
